@@ -3,11 +3,10 @@
 <h3> The dataset has been downloaded from Kaggle:<h3>
 <a href = "https://www.kaggle.com/anlgrbz/student-demographics-online-education-dataoulad">Link to the dataset</a>
 <h3> Required Libraries </h3>
-  <li>
-    <ul>pandas</ul>
-    <ul>numpy</ul>
-    <ul>matplotlib</ul>
-    <ul>fastparquet</ul>
-    <ul>mlxtend</ul>
-    <ul>sklearn</ul>
-  </li>
+     <li>pandas</li>
+    <ul>numpy</li>
+    <li>matplotlib</ul>
+    <li>fastparquet</li>
+    <li>mlxtend</li>
+    <li>sklearn</li>
+  
